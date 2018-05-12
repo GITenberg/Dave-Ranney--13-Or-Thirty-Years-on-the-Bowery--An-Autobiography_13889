@@ -1,0 +1,34 @@
+_repo: Dave-Ranney--13-Or-Thirty-Years-on-the-Bowery--An-Autobiography_13889
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Schauffler, A. F. (Adolphus Frederick)
+    alias: Schauffler, Adolphus Frederick
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '35468'
+    url: http://www.gutenberg.org/2009/agents/35468
+covers:
+- cover_type: archival
+  image_path: 13889-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ranney, Dave
+    alias: Ranney, David James
+    birthdate: 1863
+    gutenberg_agent_id: '5273'
+    url: http://www.gutenberg.org/2009/agents/5273
+description: ''
+gutenberg_issued: '2004-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American Tract Society'
+- !lcc 'BV'
+title: "Dave Ranney\r\nOr, Thirty Years on the Bowery; An Autobiography"
+url: http://www.gutenberg.org/ebooks/13889
